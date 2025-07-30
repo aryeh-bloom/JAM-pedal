@@ -10,3 +10,4 @@ The footswitch on the right will swap between the two analog/digital architectur
 ![alt text](https://github.com/aryeh-bloom/JAM-pedal/blob/main/LFO%20Design.png "LFO Implementation")
 
 This LFO provides stable Square, Triangle and Sine wave outputs to allow the user to fine tune their tone to their needs and desires.
+Vcc = 9V, Vref = 4.5V, GND = 0V, SinOffset = 4.75V

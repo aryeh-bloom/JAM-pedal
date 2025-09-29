@@ -13,7 +13,7 @@ The depth control gives you flexibility with how intense the effect is. If you d
 ![alt text](https://github.com/aryeh-bloom/JAM-pedal/blob/main/spice_schematic.png "LTSpice Circuit")
 
 Above is the LTSpice diagram of the circuit. The pedal is designed to run on a single-rail 9V supply. Vref is ~-4.5V.
-Due to the limited parts available in LTSpice, I had to get creative with how to model some of the components that my design uses. The basis of the effect is a ([homemade optocoupler] (https://sound-au.com/project200.htm)) built from an LED, a photoresistor (or LDR), and some heat shrink tubing. Using an optocoupler allowed me to completely isolate the LFO design from the guitar signal processing stage. I achieved similar behavior in LTSpice by modeling a shunt resistor (named LDR) to change resistivity according to the LED (named LDRa) output current.
+Due to the limited parts available in LTSpice, I had to get creative with how to model some of the components that my design uses. The basis of the effect is a [homemade optocoupler] (https://sound-au.com/project200.htm) built from an LED, a photoresistor (or LDR), and some heat shrink tubing. Using an optocoupler allowed me to completely isolate the LFO design from the guitar signal processing stage. I achieved similar behavior in LTSpice by modeling a shunt resistor (named LDR) to change resistivity according to the LED (named LDRa) output current.
 
 It is also important to note that the potentiometers are implemented in LTSpice as resistors, as there is no native potentiometer component. 
 

@@ -1,7 +1,7 @@
 # JAM-pedal
 Documentation for LUNA, an analog Tremolo Guitar effect pedal
 
-[![Tone Demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/VIDEO_ID)
+[![Tone Demo](https://i9.ytimg.com/vi/qtPof7qdtSU/mq2.jpg?sqp=CNz768YG-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBUKEUwDw==&rs=AOn4CLAq-XQ49K9it0XZG0muGxCpT-5xiQ)](https://youtube.com/shorts/qtPof7qdtSU?feature=share)
 
 
 ![alt text](https://github.com/aryeh-bloom/JAM-pedal/blob/main/portrait.JPG "LUNA Tremolo Pedal")
